@@ -2,7 +2,7 @@
 .vscode
 .metadata
 
-/aspnet6/bin
+aspnet6/bin/
 
 node_modules
 packages
