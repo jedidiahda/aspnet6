@@ -1,0 +1,17 @@
+.vs
+.vscode
+.metadata
+
+/aspnet6/bin
+
+node_modules
+packages
+bin
+
+
+
+*/node_modules
+*/packages
+*/bin
+*/debug
+
